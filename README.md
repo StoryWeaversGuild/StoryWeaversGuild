@@ -9,7 +9,7 @@
 
 "Turning raw data into predictive assets through mathematical rigor and engineering excellence."
 
-[Explore Projects](https://github.com/StoryWeaversGuild) • [LinkedIn](https://linkedin.com/in/your-profile) • [Email Me](mailto:krishnask.20002@gmail.com)
+[Explore Projects](https://github.com/StoryWeaversGuild) • [LinkedIn](https://www.linkedin.com/in/suyashkds/) • [Email Me](mailto:krishnask.20002@gmail.com)
 
 </div>
 
