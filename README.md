@@ -1,5 +1,4 @@
 # Hello World, this is Suyash Krishna!
-# ⚡ Suyash Krishna
 ### **Data Analytics Engineer** **India** | [LinkedIn](https://www.linkedin.com/in/suyashkds/) | [GitHub](https://github.com/StoryWeaversGuild) | [Email](mailto:krishnask.20002@gmail.com)
 
 ---
