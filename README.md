@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Hello World, I'm Suyash Krishna
-### **Data Analytics Engineer | Supervised ML Specialist**
+### **Data Analytics Engineer**
 
 [![](https://visit-counter.vercel.app/counter.png?page=StoryWeaversGuild)](https://github.com/StoryWeaversGuild)
 
