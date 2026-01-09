@@ -51,12 +51,6 @@ I focus exclusively on algorithms where the relationship between input and outpu
 
 ---
 
-## 📈 Activity & Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=StoryWeaversGuild&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoryWeaversGuild&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 <div align="center">
