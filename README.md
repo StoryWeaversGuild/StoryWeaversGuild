@@ -1,64 +1,70 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Suyash%20Krishna&fontSize=70&animation=fadeIn" />
 
-# 🚀 Hello World, I'm Suyash Krishna
-### **Data Analytics Engineer | Supervised ML Specialist**
+  ### 📊 Data Analytics Engineer
+  **Precision Engineering | Data Architect | Predictive Insights**
 
-[![](https://visit-counter.vercel.app/counter.png?page=StoryWeaversGuild)](https://github.com/StoryWeaversGuild)
+  ---
 
----
-
-"Turning raw data into predictive assets through mathematical rigor and engineering excellence."
-
-[Explore Projects](https://github.com/StoryWeaversGuild) • [LinkedIn](https://linkedin.com/in/your-profile) • [Email Me](mailto:krishnask.20002@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyashkds/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StoryWeaversGuild)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnask.20002@gmail.com)
 
 </div>
 
 ---
 
-## ⚡ Quick Pitch
-I am an engineer who lives at the intersection of **Structured Data** and **Predictive Modeling**. While many focus on general AI, I specialize in **Supervised Learning**, ensuring that every model I build is anchored by high-quality PostgreSQL architecture and visualized for maximum business impact.
+## ⚡ Professional Overview
+I am a Data Analytics Engineer dedicated to building end-to-end data pipelines and high-impact analytical models. My approach combines the logical rigor of low-level programming with the scalability of modern data science frameworks.
 
 ---
 
-## 🛠️ The Tech Arsenal
+## 🛠️ Technical Ecosystem
 
-### 💻 Programming & Core Logic
+### 💻 Core Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,flask,git,html,bootstrap" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,flask,git,html,bootstrap" />
+  </a>
 </p>
 
-### 📊 Data Engineering & Intelligence
+### 🗄️ Database & Data Processing
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,py,pandas" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,py,pandas" />
+  </a>
+</p>
+
+### 🤖 Intelligence & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 </p>
 
-### 🤖 Machine Learning Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=seaborn&logoColor=white" />
-</p>
+---
+
+## 🔬 Specialized Focus: Supervised Learning
+My machine learning expertise is concentrated on **Supervised Learning** to ensure high-stakes reliability and model interpretability.
+- **Classification:** Logic-driven categorization using SVMs and Decision Trees.
+- **Regression:** Mathematical trend forecasting and error minimization.
+- **Validation:** Ensuring model robustness through rigorous hyperparameter tuning.
 
 ---
 
-## 🔬 Specialization: Supervised Learning
-I focus exclusively on algorithms where the relationship between input and output is quantifiable and verifiable.
-* **Predictive Analytics:** Linear & Logistic Regression, Decision Trees.
-* **Classification:** SVMs, Random Forests, Gradient Boosting.
-* **Validation:** K-Fold Cross Validation & Precision-Recall Optimization.
-
----
-
-## 📈 Activity & Stats
+## 📈 GitHub Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=StoryWeaversGuild&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoryWeaversGuild&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=StoryWeaversGuild&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StoryWeaversGuild&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoryWeaversGuild&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+  <em>“Data is only as valuable as the engineering integrity behind it.”</em>
 </div>
