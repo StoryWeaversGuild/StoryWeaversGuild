@@ -1,47 +1,95 @@
-# Hello World, this is Suyash Krishna!
-### **Data Analytics Engineer** **India** | [LinkedIn](https://www.linkedin.com/in/suyashkds/) | [GitHub](https://github.com/StoryWeaversGuild) | [Email](mailto:krishnask.20002@gmail.com)
+<h1 align="center">Hi, I'm Suyash Krishna 👋</h1>
+<h3 align="center">Salesforce Development Engineer</h3>
 
----
-
-### 🖋️ Executive Summary
-Engineering-first Data Analyst specializing in the architecture of data pipelines and predictive modeling. I focus on bridging the gap between raw database management in **PostgreSQL** and actionable insights through **Supervised Machine Learning**.
-
----
-
-### 🛠️ Technical Ecosystem
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Core Programming** | `Python` • `C` • `Flask` • `Git` |
-| **Data Architecture** | `SQL (Postgres)` • `NumPy` • `Pandas` |
-| **Machine Learning** | `Scikit-Learn` • `TensorFlow` • `Supervised Algorithms` |
-| **Data Intelligence** | `Power BI` • `Tableau` • `Excel` • `Matplotlib` • `Seaborn` |
-
----
-
-### 🔬 Engineering Focus: Supervised Learning
-I prioritize high-interpretability models where data relationships are clearly defined. My workflow includes:
-* **Regression & Classification:** Implementing optimized Scikit-learn and TensorFlow pipelines.
-* **Feature Engineering:** Leveraging Pandas and SQL for robust data preprocessing.
-* **Logic Foundations:** Applying the algorithmic discipline of **C** to write more efficient Python scripts.
-
----
-
-### 📂 Top Repositories & Contributions
-* **Data Pipelines:** [Link to your best SQL/Postgres repo]
-* **Predictive Models:** [Link to your best Scikit-learn repo]
-* **Custom Dashboards:** [Link to your Flask or PowerBI project]
-
----
-
-### 📊 Performance Philosophy
-> "A model's value is defined by the integrity of its data source."
-1. **Consistency:** Clean SQL schemas before any analysis.
-2. **Precision:** Focused use of Supervised Learning for verifiable results.
-3. **Clarity:** Dynamic visualization over static reporting.
-
----
 <p align="center">
-  <b>Let's build something data-driven.</b><br>
-  <sub>Last Updated: January 2026</sub>
+  <a href="https://www.linkedin.com/in/suyashkrish/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:suyashk.krishna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://trailblazer.salesforce.com" target="_blank">
+    <img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead"/>
+  </a>
+</p>
+
+---
+
+## About Me
+
+I'm a Salesforce Development Engineer with hands-on experience building end-to-end CRM solutions. I work across the full Salesforce stack — from administration and security configuration to custom development using Apex, LWC, and automation tools.
+
+- 🔧 &nbsp;Building on **Sales Cloud**, **Service Cloud**, and **Experience Cloud**
+- ⚡ &nbsp;Writing clean **Apex**, **Triggers**, **SOQL**, and **Lightning Web Components**
+- 🔁 &nbsp;Automating business processes with **Flow Builder**, **Process Builder**, and **Approval Processes**
+- 🏆 &nbsp;Winner — Inter-College Hackathon 2024
+- 📫 &nbsp;Reach me at **suyashk.krishna@gmail.com**
+
+---
+
+## Salesforce Skills
+
+**Administration**
+> CRM Customization · Custom Objects · Page Layouts · Record Types · Validation Rules · Master-Detail & Lookup Relationships
+
+**Security Model**
+> Profiles · Roles · Permission Sets · Sharing Rules · Organization-Wide Defaults (OWD)
+
+**Development**
+> Apex Classes · Apex Triggers · SOQL · SOSL · Batch Apex · Test Classes · Lightning Web Components (LWC)
+
+**Automation**
+> Flow Builder · Process Builder · Approval Processes · Workflow Rules
+
+**Clouds**
+> Sales Cloud · Service Cloud · Experience Cloud (Community Cloud)
+
+**Tools**
+> Salesforce CLI · VS Code · Git · GitHub · Trailhead
+
+---
+
+## Projects
+
+### Enterprise Sales Management System
+> Sales Cloud · Security Model · Reports & Dashboards
+
+Designed a Sales Cloud application for managing Leads, Accounts, Contacts, Opportunities, and Products. Implemented the full Salesforce Security Model and built reports and dashboards for sales performance tracking and revenue forecasting.
+
+---
+
+### Customer Service & Community Portal
+> Service Cloud · Experience Cloud · Automation
+
+Built a customer support portal with self-service capabilities using Service Cloud and Experience Cloud. Automated case assignment, escalation, and resolution workflows using Flow Builder and Process Builder. Created dashboards to monitor agent productivity and customer satisfaction.
+
+---
+
+### Employee Onboarding Management System
+> Apex · Apex Triggers · Lightning Web Components · SOQL
+
+Developed a custom onboarding application handling employee lifecycle management end-to-end. Built automated business logic for record creation, approval routing, notifications, and status tracking using Apex and LWC.
+
+---
+
+## Certifications
+
+- ✅ Salesforce Administration & Development — Completed
+- ✅ Salesforce Trailhead Badges
+- ✅ Python for Data Science, AI and Development — IBM
+- ✅ Disease Prediction: Save Lives with AI — Devtown
+
+---
+
+## Other Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+<p align="center">
+  <i>"Build with purpose. Automate with precision."</i>
 </p>
